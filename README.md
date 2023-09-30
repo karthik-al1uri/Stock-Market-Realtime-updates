@@ -10,5 +10,7 @@ Inorder to Make this code run follow these steps
     Twilio_authentication_token
 
 2.Get The API Keys from the follwoing Websites 
+   
    2.1 for stock price : https://www.alphavantage.co/
+   
    2.2 for news : https://newsapi.org/
